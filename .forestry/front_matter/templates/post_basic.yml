@@ -17,5 +17,6 @@ fields:
       format: markdown
   label: Content
 pages:
+- content/post/contenido-con-push-y-primer-action.md
 - content/post/contenido-del-titulo.md
 - content/post/generacion-sin-push.md
