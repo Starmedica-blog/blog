@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://elated-brown-1a0598.netlify.app/"
 title = "Geekblog"
 theme = "hugo-geekblog"
 
