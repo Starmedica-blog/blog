@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -R public /home2/linguiv3/public_html/blog/
+    - /bin/cp -R public/* /home2/linguiv3/public_html/blog/.
