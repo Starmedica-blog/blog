@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elated-brown-1a0598.netlify.app/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://elated-brown-1a0598.netlify.app/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elated-brown-1a0598.netlify.app/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://elated-brown-1a0598.netlify.app/post/creado-apartir-de-template-generado/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/existente/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/otro-tag/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/post/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/</loc>
+    <lastmod>2021-02-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,16 +54,6 @@
   
   <url>
     <loc>https://elated-brown-1a0598.netlify.app/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elated-brown-1a0598.netlify.app/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elated-brown-1a0598.netlify.app/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
