@@ -18,3 +18,4 @@ fields:
   label: Content
 pages:
 - content/post/contenido-del-titulo.md
+- content/post/generacion-sin-push.md
