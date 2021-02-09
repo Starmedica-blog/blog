@@ -3,96 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/archives/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/css/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/html/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/markdown/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/markdown-syntax/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/privacy/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/rich-content/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/shortcodes/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/placeholder-text/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/text/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/math-typesetting/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/emoji/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/post/emoji-support/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/authors/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/authors/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/tags/index/</loc>
+    <loc>https://elated-brown-1a0598.netlify.app/post/contenido-del-titulo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elated-brown-1a0598.netlify.app/tags/index/</loc>
   </url>
   
 </urlset>
