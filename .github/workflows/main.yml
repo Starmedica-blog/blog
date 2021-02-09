@@ -28,16 +28,9 @@ jobs:
         run: |
           wget https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_0.80.0_Linux-64bit.deb
           sudo dpkg -i hugo_0.80.0_Linux-64bit.deb
+          rm hugo_0.80.0_Linux-64bit.deb
           hugo version
       - name: build public 
         run: |
           rm -rf public/
           hugo -D
-      - name: push changes to remote
-        run: |
-          git config --global user.name "Starmedica-blog"
-          git config --global user.email "starmedicalediting@gmail.com"
-          
-          git add .
-          git commit -m "Update from Actions"
-          git push
