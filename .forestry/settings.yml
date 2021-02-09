@@ -15,6 +15,7 @@ sections:
   create: documents
   match: "*"
   templates:
+  - post_basic
   - post
 upload_dir: static/uploads
 public_path: "/uploads"
