@@ -27,6 +27,4 @@ fields:
   name: aliases
   label: aliases
 pages:
-- content/post/blog-despues-de-quiter-public-de-gitignore.md
-- content/post/blog-despues-del-reverse-y-antes-de-cambiar.gitignore.md
 - content/post/creado-apartir-de-template-generado.md
