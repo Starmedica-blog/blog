@@ -28,8 +28,8 @@ section = ["HTML"]
 taxonomy = ["HTML"]
 term = ["HTML", "ATOM"]
 [params]
-geekblogLegalNotice = "https://thegeeklab.de/legal-notice/#contact-information"
-geekblogPrivacyPolicy = "https://thegeeklab.de/legal-notice/#privacy-policy"
+geekblogLegalNotice = "https://blog.starmedicalediting.com"
+geekblogPrivacyPolicy = "https://blog.starmedicalediting.com"
 logo = "uploads/brand.svg"
 [taxonomies]
 author = "authors"
