@@ -12,6 +12,7 @@ sections:
   create: documents
   match: "*"
   templates:
+  - post_with_video
   - post_existent
   - post_basic
   - post
