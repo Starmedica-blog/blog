@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.starmedicalediting.com/</loc>
-    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.starmedicalediting.com/post/blog-despues-de-quiter-public-de-gitignore/</loc>
     <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
@@ -19,6 +14,11 @@
   
   <url>
     <loc>https://blog.starmedicalediting.com/post/</loc>
+    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/</loc>
     <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
   
@@ -43,27 +43,62 @@
   </url>
   
   <url>
+    <loc>https://blog.starmedicalediting.com/tags/css/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/html/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/markdown/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/posts/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/shortcodes/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/showcase/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/posts/style-guide/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/text/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.starmedicalediting.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starmedicalediting.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starmedicalediting.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.starmedicalediting.com/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/tags/shortcodes/</loc>
+    <loc>https://blog.starmedicalediting.com/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/tags/text/</loc>
+    <loc>https://blog.starmedicalediting.com/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,6 +139,11 @@
   
   <url>
     <loc>https://blog.starmedicalediting.com/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
