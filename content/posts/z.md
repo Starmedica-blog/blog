@@ -11,7 +11,7 @@ title = "Z"
 [banner]
 caption = "HOLA"
 href = "nada"
-src = "/uploads/banner.jpg"
+src = "/posts/z.png"
 
 +++
-Que tal como estas 
+Que tal como estas
