@@ -1,11 +1,7 @@
 ---
 header:
   - name: Home
-    icon: home
+    icon: menu
     ref: "http://app.starmedicalediting.com"
     external: true
 
-footer:
-  - name: Contact
-    icon: email
-    ref: "/contact"
