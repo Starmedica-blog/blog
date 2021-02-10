@@ -1,5 +1,5 @@
 ---
-label: post_extent
+label: geekblog_extent
 hide_body: false
 fields:
 - type: text
