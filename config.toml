@@ -1,6 +1,7 @@
 baseURL = "https://elated-brown-1a0598.netlify.app/"
 title = "Geekblog"
 theme = "hugo-geekblog"
+paginate = "6"
 
 # Geekblog required configuration
 pygmentsUseClasses = true
