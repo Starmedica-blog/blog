@@ -45,5 +45,3 @@ fields:
       maxSize: 64
     label: src
     hidden: false
-pages:
-- content/posts/guitarra.md
