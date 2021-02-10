@@ -21,8 +21,6 @@ sections:
   templates:
   - post_with_video
   - post_existent
-  - post_basic
-  - post
 - type: heading
   label: Configurations
 - type: document
