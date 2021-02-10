@@ -3,7 +3,7 @@ disablePathToLower = true
 paginate = "6"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-theme = "hugo-geekblog"
+theme = "Blogpaper"
 title = "Star Medical Blog"
 [markup.goldmark.renderer]
 unsafe = true
