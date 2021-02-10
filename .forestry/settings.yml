@@ -12,7 +12,7 @@ sections:
   create: all
   match: "*"
   templates:
-  - post_with_video
+  - blogpaper
 - type: directory
   path: content/post
   label: Post
