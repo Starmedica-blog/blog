@@ -3,22 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.starmedicalediting.com/posts/guitarra/</loc>
-    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.starmedicalediting.com/tags/html/</loc>
     <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starmedicalediting.com/post/</loc>
-    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starmedicalediting.com/posts/</loc>
     <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
   
@@ -38,17 +28,17 @@
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/posts/z/</loc>
-    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.starmedicalediting.com/tags/css/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.starmedicalediting.com/tags/markdown/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/posts/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
