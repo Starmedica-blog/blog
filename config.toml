@@ -34,3 +34,4 @@ logo = "uploads/brand.svg"
 [taxonomies]
 author = "authors"
 tag = "tags"
+
