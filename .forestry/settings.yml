@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: themes/hugo-geekblog/static
-  label: static
-  create: documents
-  match: "**.svg"
-  new_doc_ext: png
 - type: heading
   label: Blog
 - type: directory
