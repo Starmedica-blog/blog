@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://blog.starmedicalediting.com/tags/html/</loc>
+    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/post/</loc>
+    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.starmedicalediting.com/posts/</loc>
     <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
@@ -18,12 +28,17 @@
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/tags/css/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.starmedicalediting.com/tags/</loc>
+    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.starmedicalediting.com/tags/html/</loc>
+    <loc>https://blog.starmedicalediting.com/post/titulo-de-prueba/</loc>
+    <lastmod>2021-02-10T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.starmedicalediting.com/tags/css/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +59,6 @@
   
   <url>
     <loc>https://blog.starmedicalediting.com/posts/style-guide/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.starmedicalediting.com/tags/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
