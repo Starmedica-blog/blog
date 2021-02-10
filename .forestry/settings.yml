@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/about.md
-  label: About
+  path: content/contact.md
+  label: Contact
 - type: heading
   label: Blog
 - type: directory
