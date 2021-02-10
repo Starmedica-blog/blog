@@ -8,7 +8,7 @@ sections:
   path: themes/hugo-geekblog/static
   label: static
   create: documents
-  match: "**/*.svg"
+  match: "**.svg"
   new_doc_ext: png
 - type: heading
   label: Blog
