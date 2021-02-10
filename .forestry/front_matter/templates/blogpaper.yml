@@ -36,9 +36,6 @@ fields:
   - type: text
     name: caption
     label: caption
-  - type: text
-    name: href
-    label: href
   - name: src
     type: file
     config:
