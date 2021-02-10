@@ -26,5 +26,3 @@ fields:
 - type: list
   name: aliases
   label: aliases
-pages:
-- content/post/titulo-de-prueba.md

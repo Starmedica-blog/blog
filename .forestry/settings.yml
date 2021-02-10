@@ -13,14 +13,6 @@ sections:
   match: "*"
   templates:
   - blogpaper
-- type: directory
-  path: content/post
-  label: Post
-  create: documents
-  match: "*"
-  templates:
-  - post_with_video
-  - post_existent
 - type: heading
   label: Configurations
 - type: document
