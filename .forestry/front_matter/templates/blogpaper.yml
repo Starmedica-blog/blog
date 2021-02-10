@@ -1,0 +1,41 @@
+---
+label: Blogpaper
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: series
+  label: series
+- type: list
+  name: aliases
+  label: aliases
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: text
+    name: caption
+    label: caption
+  - type: text
+    name: href
+    label: href
