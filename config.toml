@@ -30,7 +30,7 @@ term = ["HTML", "ATOM"]
 [params]
 geekblogLegalNotice = "https://thegeeklab.de/legal-notice/#contact-information"
 geekblogPrivacyPolicy = "https://thegeeklab.de/legal-notice/#privacy-policy"
-logo = "../../../static/uploads/brand.png"
+logo = "../../../static/uploads/brand.svg"
 [taxonomies]
 author = "authors"
 tag = "tags"
