@@ -34,6 +34,7 @@ term = ["HTML", "ATOM"]
 geekblogLegalNotice = "https://blog.starmedicalediting.com"
 geekblogPrivacyPolicy = "https://blog.starmedicalediting.com"
 logo = "uploads/brand.svg"
+navHome = "https://starmedicalediting.com"
 [taxonomies]
 author = "authors"
 tag = "tags"
