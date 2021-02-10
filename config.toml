@@ -33,3 +33,4 @@ tag = "tags"
 [params]
 geekblogLegalNotice = "https://thegeeklab.de/legal-notice/#contact-information"
 geekblogPrivacyPolicy = "https://thegeeklab.de/legal-notice/#privacy-policy"
+logo = "star_ico.png"
