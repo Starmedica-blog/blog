@@ -1,43 +1,32 @@
-baseURL = "https://elated-brown-1a0598.netlify.app/"
-title = "Geekblog"
-theme = "hugo-geekblog"
-paginate = "6"
-
-# Geekblog required configuration
-pygmentsUseClasses = true
-pygmentsCodeFences = true
+baseURL = "https://blog.starmedicalediting.com"
 disablePathToLower = true
-
-# Needed for mermaid shortcodes
-[markup]
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 9
-
-[taxonomies]
-  author = "authors"
-  tag = "tags"
-
-[mediaTypes]
-  [mediaTypes."application/atom+xml"]
-    suffixes = ["xml"]
-
-[outputFormats]
-  [outputFormats.Atom]
-    name = "Atom"
-    mediaType = "application/atom+xml"
-    baseName = "atom"
-    isPlainText = false
-    rel = "alternate"
-    isHTML = false
-    noUgly = true
-    permalinkable = false
-
+paginate = "6"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+theme = "hugo-geekblog"
+title = "Star Medical Blog"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+endLevel = 9
+startLevel = 1
+[mediaTypes."application/atom+xml"]
+suffixes = ["xml"]
+[outputFormats.Atom]
+baseName = "atom"
+isHTML = false
+isPlainText = false
+mediaType = "application/atom+xml"
+name = "Atom"
+noUgly = true
+permalinkable = false
+rel = "alternate"
 [outputFormats.outputs]
-  home = ["HTML", "ATOM"]
-  page = ["HTML"]
-  section = ["HTML"]
-  taxonomy = ["HTML"]
-  term = ["HTML", "ATOM"]
+home = ["HTML", "ATOM"]
+page = ["HTML"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term = ["HTML", "ATOM"]
+[taxonomies]
+author = "authors"
+tag = "tags"
