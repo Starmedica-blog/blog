@@ -1,0 +1,11 @@
+---
+header:
+  - name: Home
+    icon: home
+    ref: "http://app.starmedicalediting.com"
+    external: true
+
+footer:
+  - name: Contact
+    icon: email
+    ref: "/contact"
