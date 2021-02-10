@@ -1,0 +1,135 @@
+---
+label: config_template
+hide_body: true
+fields:
+- type: text
+  name: baseURL
+  label: baseURL
+- type: boolean
+  name: disablePathToLower
+  label: disablePathToLower
+- type: text
+  name: paginate
+  label: paginate
+- type: boolean
+  name: pygmentsCodeFences
+  label: pygmentsCodeFences
+- type: boolean
+  name: pygmentsUseClasses
+  label: pygmentsUseClasses
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: markup
+  label: markup
+  fields:
+  - type: field_group
+    name: goldmark
+    label: goldmark
+    fields:
+    - type: field_group
+      name: renderer
+      label: renderer
+      fields:
+      - type: boolean
+        name: unsafe
+        label: unsafe
+  - type: field_group
+    name: tableOfContents
+    label: tableOfContents
+    fields:
+    - type: number
+      name: endLevel
+      label: endLevel
+    - type: number
+      name: startLevel
+      label: startLevel
+- type: field_group
+  name: mediaTypes
+  label: mediaTypes
+  fields:
+  - type: field_group
+    name: application/atom+xml
+    label: application/atom+xml
+    fields:
+    - type: list
+      name: suffixes
+      label: suffixes
+- type: field_group
+  name: outputFormats
+  label: outputFormats
+  fields:
+  - type: field_group
+    name: Atom
+    label: Atom
+    fields:
+    - type: text
+      name: baseName
+      label: baseName
+    - type: boolean
+      name: isHTML
+      label: isHTML
+    - type: boolean
+      name: isPlainText
+      label: isPlainText
+    - type: text
+      name: mediaType
+      label: mediaType
+    - type: text
+      name: name
+      label: name
+    - type: boolean
+      name: noUgly
+      label: noUgly
+    - type: boolean
+      name: permalinkable
+      label: permalinkable
+    - type: text
+      name: rel
+      label: rel
+  - type: field_group
+    name: outputs
+    label: outputs
+    fields:
+    - type: list
+      name: home
+      label: home
+    - type: list
+      name: page
+      label: page
+    - type: list
+      name: section
+      label: section
+    - type: list
+      name: taxonomy
+      label: taxonomy
+    - type: list
+      name: term
+      label: term
+- type: field_group
+  name: taxonomies
+  label: taxonomies
+  fields:
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: tag
+    label: tag
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: geekblogLegalNotice
+    label: geekblogLegalNotice
+  - type: text
+    name: geekblogPrivacyPolicy
+    label: geekblogPrivacyPolicy
+  - type: file
+    name: logo
+    label: logo
