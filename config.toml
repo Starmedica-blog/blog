@@ -31,5 +31,5 @@ term = ["HTML", "ATOM"]
 author = "authors"
 tag = "tags"
 [params]
-geekblogLegalNotice = https://thegeeklab.de/legal-notice/#contact-information
-geekblogPrivacyPolicy = https://thegeeklab.de/legal-notice/#privacy-policy
+geekblogLegalNotice = "https://thegeeklab.de/legal-notice/#contact-information"
+geekblogPrivacyPolicy = "https://thegeeklab.de/legal-notice/#privacy-policy"
