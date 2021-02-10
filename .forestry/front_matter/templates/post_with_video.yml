@@ -1,5 +1,5 @@
 ---
-label: post_with_video
+label: post_simple
 hide_body: false
 fields:
 - type: text
