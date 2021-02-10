@@ -5,6 +5,9 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 theme = "Blogpaper"
 title = "Star Medical Blog"
+[menu.main]
+name = About
+url = /about
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
