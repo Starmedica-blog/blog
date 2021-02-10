@@ -27,10 +27,10 @@ page = ["HTML"]
 section = ["HTML"]
 taxonomy = ["HTML"]
 term = ["HTML", "ATOM"]
-[taxonomies]
-author = "authors"
-tag = "tags"
 [params]
 geekblogLegalNotice = "https://thegeeklab.de/legal-notice/#contact-information"
 geekblogPrivacyPolicy = "https://thegeeklab.de/legal-notice/#privacy-policy"
-logo = "star_ico.png"
+logo = "../../../static/brand.png"
+[taxonomies]
+author = "authors"
+tag = "tags"
