@@ -42,5 +42,3 @@ fields:
       maxSize: 64
     label: src
     hidden: false
-pages:
-- content/posts/hola-que-tal-como-estas.md
