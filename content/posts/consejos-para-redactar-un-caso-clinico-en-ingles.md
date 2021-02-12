@@ -4,14 +4,13 @@ author = "Star Medical Editing and Translation"
 categories = []
 date = ""
 description = ""
-draft = true
 series = []
 subtitle = ""
 tags = ["Consejos para la redacción ", "Writing Tips", "Case Report", "Caso Clínico"]
 title = "CONSEJOS PARA REDACTAR UN CASO CLÍNICO EN INGLÉS"
 [banner]
 caption = ""
-src = ""
+src = "/posts/consejos-para-redactar-un-caso-clinico-en-ingles.jpg"
 
 +++
 **TIPS PARA REDACTAR UN CASO CLÍNICO EN INGLÉS**
