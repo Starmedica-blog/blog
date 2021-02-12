@@ -1,17 +1,17 @@
 ---
 author: Hugo Authors
 title: Placeholder Text
-subtitle: Lorem Ipsum Dolor Si Amet
+subtitle: The best subtitle
 date: 2019-03-09
 description: Lorem Ipsum Dolor Si Amet
 tags:
-  - markdown
-  - text
+- markdown
+- text
 banner:
   caption: William Hook
   href: https://unsplash.com/photos/93Ep1dhTd2s
----
 
+---
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
