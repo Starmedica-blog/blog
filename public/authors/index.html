@@ -8,35 +8,111 @@
   <title>Authors | Star Medical Blog</title>
   <link rel="alternate" type="application/rss&#43;xml" href="/authors/index.xml" title="Star Medical Blog">
 
+  
+
   <link rel="stylesheet" href="/main.min.dfd72628eaf678bbcfbcbd1e319720402e4996cf05cf92c3d52bd0d404f9455cb5c895aaab4ac0cc5774edaa98af40f4e6ad1ef6feb88567a0643fed1c7327ad.css" integrity="sha512-39cmKOr2eLvPvL0eMZcgQC5Jls8Fz5LD1SvQ1AT5RVy1yJWqq0rAzFd07aqYr0D05q0e9v64hWegZD/tHHMnrQ==">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;600&display=swap" rel="stylesheet">
+  <style>
+    .nav{
+      background: white;
+    }
+    .nav__content{
+      max-width: 1320px;
+      padding-right: var(--bs-gutter-x,.75rem);
+      padding-left: var(--bs-gutter-x,.75rem);
+       
+      margin-left: calc( 50% - 667.5px + 7px + 5px);
+      margin-right: calc( 50% - 667.5px + 7px);
+      max-width: none !important;
+      height: 67px;
+  }
+    .nav_home{
+      color: black;
+    }
+    .nav__home_a{
+      color: black !important;padding: 8px 0 12px 25px;font-size: 18px;
+      font-family: "Open Sans", sans-serif;
+      font-weight: bold;
+      height: 27px;
+      margin: 0;
+  }
+    .nav_logo{
+      margin-right: 430.8px;
+      color: #000;
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      font-family: 'Comfortaa', cursive;
+    }
+    @media screen and (max-width:1400px) {
+      .nav__content{
+        margin-left: calc( 50% - 557.5px + 7px - 20px + 5px);
+        margin-right: calc( 50% - 557.5px + 7px - 20px);
+      }
+      .nav_logo{
+        margin-right: 250px;
+      }
+    }
+    @media screen and (max-width:1200px) {
+      .nav__content{
+        margin-left: calc( 50% - 487.5px - 7.5px + 20px);
+        margin-right: calc( 50% - 487.5px);
+      }
+      .nav_logo{
+        margin-right: 70.8px;
+      }
+    }
+    @media screen and (max-width:990px) {
+      .nav__content{
+        margin-left: calc( 50% - 367.5px + 12px);
+        margin-right: calc(50% - 367.5px + 12px);
+        height: 52px;
+      }
+      .nav__home{display: none;}
+      
+    }
+    @media screen and (max-width:769px) {
+      .nav{
+        display: none;
+      }
+    }
+
+  
+  </style>
 </head>
 
 <body>
   <nav class="nav">
   <div class="nav__content container metadata">
-    <div class="nav__home">
-      <a href="https://blog.starmedicalediting.com" >
-        Back
-      </a>
-    </div>
-    
-    <div class="nav__home">
-      <a href="https://starmedicalediting.com" >
-        Home
-      </a>
-    </div>
-    
-    <div class="nav__home">
-      <a href="https://app.starmedicalediting.com" >
-        App
-      </a>
-    </div>
+    <div class="nav_logo">Star Medical Editing</div>
+      <div class="nav__home">
+        <a class="nav__home_a" href="https://test.starmedicalediting.com">Home</a>
+      </div>
+
+      <div class="nav__home">
+        <a class="nav__home_a" href="https://test.starmedicalediting.com#services">Services</a>
+      </div>
+
+      <div class="nav__home">
+        <a class="nav__home_a" href="https://test.starmedicalediting.com#pricing">Pricing</a>
+      </div>
+
+      <div class="nav__home">
+        <a class="nav__home_a" href="http://localhost:1313">Blog</a>
+      </div>
+
+      <div class="nav__home">
+        <a class="nav__home_a" href="https://test.starmedicalediting.com#about">About</a>
+      </div>
     <ul class="inline-list">
-        <li class="inline-list__item"><a href="/contact" title="">Contact</a></li>
+      <li class="inline-list__item nav__home"><a class="nav__home_a" href="/contact" title="">Contact</a></li>
     </ul>
   </div>
 </nav>
-
   <main>
   <section class="list">
     <header class="header header--main">

@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Star Medical Blog</title>
-    <link>https://blog.starmedicalediting.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Star Medical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.starmedicalediting.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Style Guide</title>
-      <link>https://blog.starmedicalediting.com/posts/style-guide/</link>
+      <link>http://localhost:1313/posts/style-guide/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/style-guide/</guid>
+      <guid>http://localhost:1313/posts/style-guide/</guid>
       <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
 general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://blog.starmedicalediting.com/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://blog.starmedicalediting.com/posts/rich-content/</link>
+      <link>http://localhost:1313/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/rich-content/</guid>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://blog.starmedicalediting.com/posts/placeholder-text/</link>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/placeholder-text/</guid>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://blog.starmedicalediting.com/posts/emoji-support/</link>
+      <link>http://localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CONSEJOS PARA REDACTAR UN CASO CLÍNICO EN INGLÉS</title>
-      <link>https://blog.starmedicalediting.com/posts/consejos-para-redactar-un-caso-clinico-en-ingles/</link>
+      <link>http://localhost:1313/posts/consejos-para-redactar-un-caso-clinico-en-ingles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/posts/consejos-para-redactar-un-caso-clinico-en-ingles/</guid>
+      <guid>http://localhost:1313/posts/consejos-para-redactar-un-caso-clinico-en-ingles/</guid>
       <description>TIPS PARA REDACTAR UN CASO CLÍNICO EN INGLÉS
 Hoy nuestros especialistas en edición y traducción médica ¡te hemos preparado una lista de tips que puedan ser útiles cuando tengas que redactar un caso clínico en ingles!
 El primero es saber que casi todos los casos clínicos siguen la misma estructura: presentación del caso (antecedentes personales y familiares del paciente, y cuadro clínico actual); pruebas complementarias iniciales (por ejemplo, en Urgencias); diagnóstico de presunción; tratamiento y manejo inicial; pruebas complementarias más especializadas (por ejemplo, una biopsia); diagnóstico definitivo; tratamiento y manejo definitivo; y evolución.</description>
