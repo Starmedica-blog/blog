@@ -1,4 +1,4 @@
-baseURL = "https://blog.starmedicalediting.com"
+baseURL = "http://localhost:1313"
 disablePathToLower = true
 paginate = "6"
 pygmentsCodeFences = true
@@ -34,7 +34,7 @@ term = ["HTML", "ATOM"]
 geekblogLegalNotice = "https://blog.starmedicalediting.com"
 geekblogPrivacyPolicy = "https://blog.starmedicalediting.com"
 logo = "uploads/brand.svg"
-navHome = "https://starmedicalediting.com"
+navHome = "https://test.starmedicalediting.com"
 [taxonomies]
 author = "authors"
 tag = "tags"
