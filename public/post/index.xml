@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Star Medical Blog</title>
-    <link>https://blog.starmedicalediting.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Star Medical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Feb 2021 03:00:00 +0000</lastBuildDate><atom:link href="https://blog.starmedicalediting.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 03:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Titulo de prueba</title>
-      <link>https://blog.starmedicalediting.com/post/titulo-de-prueba/</link>
+      <link>http://localhost:1313/post/titulo-de-prueba/</link>
       <pubDate>Wed, 10 Feb 2021 03:00:00 +0000</pubDate>
       
-      <guid>https://blog.starmedicalediting.com/post/titulo-de-prueba/</guid>
+      <guid>http://localhost:1313/post/titulo-de-prueba/</guid>
       <description>Contenido de Prueba</description>
     </item>
     
