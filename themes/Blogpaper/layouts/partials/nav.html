@@ -14,11 +14,11 @@
       </div>
 
       <div class="nav__home">
-        <a class="nav__home_a" href="{{ .Site.BaseURL }}">Blog</a>
+        <a class="nav__home_a" href="{{ .Site.Params.navHome }}#about">About</a>
       </div>
 
       <div class="nav__home">
-        <a class="nav__home_a" href="{{ .Site.Params.navHome }}#about">About</a>
+        <a class="nav__home_a" href="{{ .Site.Params.navHome }}#submit">Submit</a>
       </div>
       
     {{- with .Site.Menus.main }}
@@ -32,5 +32,9 @@
       {{- end }}
     </ul>
     {{- end }}
+
+    <div class="nav__home">
+      <a class="nav__home_a" href="{{ .Site.BaseURL }}">Blog</a>
+    </div>
   </div>
 </nav>
