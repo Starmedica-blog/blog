@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://blog.starmedicalediting.com"
 disablePathToLower = true
 paginate = "6"
 pygmentsCodeFences = true
@@ -7,7 +7,7 @@ theme = "Blogpaper"
 title = "Star Medical Blog"
 [[menu.main]]
 name = "Contact"
-url = "/contact"
+url = "https://test.starmedicalediting.com#contact"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
@@ -35,6 +35,7 @@ geekblogLegalNotice = "https://blog.starmedicalediting.com"
 geekblogPrivacyPolicy = "https://blog.starmedicalediting.com"
 logo = "uploads/brand.svg"
 navHome = "https://test.starmedicalediting.com"
+navBlog = "https://blog.starmedicalediting.com"
 [taxonomies]
 author = "authors"
 tag = "tags"
