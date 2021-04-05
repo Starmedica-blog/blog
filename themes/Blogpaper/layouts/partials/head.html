@@ -123,7 +123,24 @@
         display: none;
       }
     }
+    .owl-carousel{
+      z-index: unset !important;
+    }
+    
+    .owl-stage-outer{
+      height: unset !important;
+    }
+    .owl-carousel .owl-stage{
+      height: unset !important;
+    }
+    .owl-carousel.owl-drag .owl-item{
+      height: unset !important;
 
+    }
   
   </style>
+  <link href="{{ .Site.Params.carousel1css }}" rel="stylesheet">
+  <link href="{{ .Site.Params.carousel2css }}" rel="stylesheet">
+
+  
 </head>
